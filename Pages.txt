@@ -1,0 +1,13 @@
+login
+wp-admin
+login.php
+signin.php
+signin.asp
+admin
+admin.php
+admin.asp
+barewbarayati
+cpanel
+managment
+control-panel
+system
