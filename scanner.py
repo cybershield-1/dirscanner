@@ -149,4 +149,4 @@ def StartSearching(url, thread = 5, timeout = 2000):
         t.join()
 
 
-StartSearching("https://www.kurdcinama.com", thread = 10, timeout = 2000)
+StartSearching("https://kurdsubtitle.net/", thread = 10, timeout = 2000)
